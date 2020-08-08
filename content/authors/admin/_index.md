@@ -1,10 +1,11 @@
 ---
+title: Rory Link
+role: Artist and Author
+avatar_filename: rory-laughing-01.jpg
 organizations: []
 superuser: true
 authors:
   - admin
-title: Rory Link
-role: Artist and Author
 bio: ""
 interests:
   - ""
