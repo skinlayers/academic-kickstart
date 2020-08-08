@@ -1,7 +1,7 @@
 ---
 title: Rory Link
 role: Artist and Author
-avatar_filename: rory-laughing-01.jpg
+avatar_filename: avatar.jpg
 organizations: []
 superuser: true
 authors:
